@@ -1,0 +1,51 @@
+
+NodeJS topics:
+
+- Event loop
+- Trip of code from high level to machine
+- Promises
+- NonBlocking/Blocking
+- Trip of C++ to js
+- ECMAScript
+- Built in libraries
+- JS merged with another different languages
+- Async await
+- Error handling (Conventions, cases, etc, error structures)
+- Handling node js typos and values (string, null, undefined)
+- Child process
+- NodeJS Internals
+- Http servers (Express, KOA, Fastify)
+- Stream and buffers
+- Performance
+- NPM
+- Modules
+- NVM and node versions
+- Testing
+- Folder structure
+- Backend parterns
+- DB connections
+- Working Threads
+- Timers
+- Arrays basics
+- Classes basics
+- Callbacks
+- Routines
+- Debugging
+- Static Analizers
+- Is NodeJS single threading?
+- Docker
+- Jenkins
+- Swagger
+- REST API, RPC nd GraphQL 
+- HTTP
+- Security patterns
+- Decimal hadnler
+- Prototype
+- Mixins
+- var, let, const
+- this
+- 
+- 
+- 
+- 
+- 
