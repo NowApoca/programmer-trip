@@ -32,4 +32,7 @@ Responsive style:
 	- Use relative units for text ( to make Headers responsive )
 	- Tab objects like buttons or checkbox must have a size of 48x48px or more.
 tips:
-	
+
+
+
+SOURCE: https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939#5661
