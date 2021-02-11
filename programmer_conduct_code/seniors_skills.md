@@ -1,0 +1,41 @@
+
+Last year my nephew got a job in a software company. He had recently completed his studies, and this was his first job as a software developer. He got into the job full of enthusiasm and ideas of his own about the software career.
+After the first couple of weeks, he called me to complain about the company’s work culture. His problem was that they were making junior developers do all the work (read ‘coding’). Senior developers were just attending meetings or working on documents and spending minimal time on coding.
+Throughout the call, he tried to convince me that senior developers are highly paid for doing nothing. But this was not the first time I heard such grievances from freshers or junior developers.
+In my more than a decade-old software career, I have heard numerous complaints about how senior developers are not worth their place and how junior developers can easily replace them.
+As these are pretty commonplace notions — let’s go through the typical day to day work that a senior developer does in most companies to see if they are really worth their place in the team.
+Understand and translate functional requirement to technical specs
+One of the most significant gaps between clients and the development team is the difference in understanding of the requirements. Clients do not understand the challenges of technical implementation. At the same time, the developers cannot empathize with the issues that the customers are trying to solve in their business.
+Product owners try their best to document the client’s requirements in a simplified form. However, the documentations are almost always in business terminology. It is hard for the technical team to understand the documentation and convert them into code.
+Senior developers generally have spent a reasonable amount of time on the application. They know what is already implemented and have a better understanding of the client’s problem. Due to their experience, it is easier for a senior developer to bridge the gap between functional and technical specifications.
+It might sound like a trivial task, but in practice, give the requirement analysis responsibility to a junior developer, and they will be lost. If the team does not understand the requirement, then the project is doomed.
+Knowledge of system limitations
+Once the requirements are understood, the project team's next hurdle is to determine whether they are feasible to be implemented. The responsibility to understand the system limitations and make the stakeholders understand it falls on the senior developer's shoulders.
+It is pretty common in software projects that the customer wants to build a rocket with a paper plane’s budget. It is an extreme example, but you got the idea.
+You cannot implement a requirement for a million requests per hour load with a server that can handle only a few thousands of requests hourly. The senior developers have to know the system’s limitations and communicate them to the leaders. Leaders or product owners depend on such feedback to negotiate the requirements with the client.
+Due to their prior experience working on multiple systems, senior developers better understand which configuration can handle what type of load. They have an understanding of which technology is best suited for the implementation of specific requirements.
+If you leave feasibility analysis tasks on junior developers, nine out of ten times, they will try to implement them with whatever limited knowledge they have. As a developer, we all started there when we had a hammer, and we thought every problem is a nail.
+Coding and code reviews
+There are multiple angles from which we can look at the time spent on coding. Senior developers can think of a variety of scenarios while they are trying to implement a requirement. So, a lot of time is spent analyzing the best way to code to avoid edge case failures.
+Give the same task to a junior developer, and they might code it faster because they do not think twice while reading a requirement. Their approach is more like converting English to Java (or whatever programming language they use).
+It is not as if junior developers are not good at coding. But they have not got the required experience yet to think of multiple scenarios around an ask. So, they just code their first understanding of the requirement.
+The day-to-day task of a senior developer includes reviewing other’s code. It takes up a considerable amount of time from the senior developer’s workhours. The responsibility of making sure the system does not go belly up due to unhandled boundary conditions or an unintentional bad code rests with the senior developer.
+Handle escalations and production incidents
+One critical responsibility of senior developers is to handle escalations and production incidents. I consider this as one of the top reasons why senior developers are vital to a team.
+At the beginning of their career, developers do not possess the skills required to handle people during difficult discussions. When shit hits the roof, the true mettle of senior developers is tested. They go on the call, and the first thing they try to do is understand the problem and bring the situation under control.
+Senior developers know how to calm down the audience and instill confidence that the world is not breaking down. They drive the conversation logically and use their experience to troubleshoot the problem as quickly as possible.
+In any problem, the root cause analysis is the most crucial step. Once the root cause is found, and a solution is provided, anyone who knows to code can fix the issue. But without the senior developers, the whole exercise might get delayed by hours.
+In most cases, delays in finding the root cause for escalated production issues can cause significant loss to the customer and the company. Hence, managers always depend on the senior developers during crises. Senior developers can save the day for the team due to their experience and knowledge.
+Annual sizing and presentation to leadership
+Every year each team needs to justify their work to get the annual budget for the project approved by the clients or appropriate level within the company. The teams also have to present their ongoing work to higher management periodically.
+In both circumstances, managers fall back upon the senior developers to prepare presentations and present the technical detail to the necessary audience. Junior programmers are utterly oblivious of these activities. Many developers don’t even know how the budget allocation for their project is done.
+The senior developer’s responsibility is to convince the management why certain functionalities are required in the application. They help the decision-makers to have a vivid picture of what the team is working on. They also assist the management in understanding how the work benefits the company and its customers.
+Managers cannot leave the presentation to a junior developer when their VP or CIO is in the audience. A VP or a CIO will not ask about the minute details of coding during the presentation.
+They will be somewhat interested in finding out what can be done better to improve the application's performance and reliability. Answers to these questions can only come from experience, which the senior developers possess.
+Final Thoughts
+Now you have a reasonably good idea about what senior developers do in a team. It must be clear why their contribution to the team should not be measured based on the lines of code they produce.
+I hope the facts and arguments placed above are clear enough to understand the importance of experience during project execution and maintenance.
+If you get junior developers who can do all this and code as much as anyone else in the team, you can certainly get rid of senior developers. Otherwise, now you know why it is wise to hang on to your experienced developers even though they seem to be contributing less with their coding.
+What do you think about this perennial question? Do you think senior developers are worth their place in the team? Please feel free to weigh in your opinion in the comments section.
+
+SOURCE: https://levelup.gitconnected.com/are-senior-developers-worth-their-place-in-the-team-7e3259df4eeb
