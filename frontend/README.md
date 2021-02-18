@@ -31,4 +31,8 @@ Frontend tips:
 - Refresh pages (Ajax)
 - A11Y and etc front checklists
 - 
-- 
+-
+
+
+MUST DO FRONTEND TIPS: https://blog.bitsrc.io/12-mistakes-newbie-web-developers-make-beafb9d8a497
+

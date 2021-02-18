@@ -28,3 +28,5 @@ CSS:
 BIBLIOGRAPHY: https://medium.com/level-up-web/the-ultimate-guide-to-css-103b0f883de3
 
 A BIBLIA: https://medium.com/free-code-camp/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11
+
+TRICKS: https://beforesemicolon.medium.com/10-css-tricks-you-need-to-know-about-part-2-df52ee0b29371
