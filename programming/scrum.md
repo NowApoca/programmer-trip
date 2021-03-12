@@ -66,3 +66,9 @@ Incorrect. In agile methodologies like Scrum resources and time are both fixed, 
 
 Source: https://medium.com/chingu/a-short-introduction-to-the-scrum-methodology-7a23431b9f17
 
+
+
+
+ERRORES EN EL SPRINT PLANNING:
+
+SOURCE: https://medium.com/serious-scrum/6-common-mistakes-when-planning-a-sprint-6fedbedf604e

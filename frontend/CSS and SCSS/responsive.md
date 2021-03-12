@@ -25,7 +25,13 @@ Responsive types:
 	Off Canva:
 Responsive images:
 	tips:
+		- use relative sizes, always put a 100% in max width or height.
 		- use srcset when you have a lot of files for the same image
 		- picture for css and sources and media
 		- take care of uploading in png. In general they are 2 or 3 times bigger. Instead use svg, but in mobiles it could have problems
 		- use imageset in css or srcset
+
+
+Usar EM como unidades. en https://zellwk.com/blog/media-query-units/ explican que sirve para zoom in y eso.
+
+
