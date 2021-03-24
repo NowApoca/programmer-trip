@@ -20,4 +20,20 @@ tips:
 
 	en los lazy loading se pueden poner spinners. ta bueno pq te trae la pagina en cuotas
 
-	
+
+FOLDER ARQUITECTURA RECOMENDADA:
+
+/
+	components/
+		/Atoms
+		/Molecules
+		/Organisms
+	pages/
+		_app.js
+	styles/
+		root files (general, colors, layout, constants, etc)
+		/components/
+			/Atoms
+			/Molecules
+			/Organisms
+			/Pages

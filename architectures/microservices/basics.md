@@ -30,4 +30,4 @@ https://alex-g.medium.com/microservices-architecture-74c26df8688
 Microservices Patterns: With examples in Java 1st Edition
 https://martinfowler.com/articles/microservices.html (A bible)
 
-
+Tiene muy buenas definiciones practicas: https://medium.com/swlh/microservices-architecture-from-a-to-z-7287da1c5d28
