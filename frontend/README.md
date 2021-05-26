@@ -36,3 +36,4 @@ Frontend tips:
 
 MUST DO FRONTEND TIPS: https://blog.bitsrc.io/12-mistakes-newbie-web-developers-make-beafb9d8a497
 
+Me gusto esto del BFF, creo que simplifica bastante si tenes mas de un front: https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf

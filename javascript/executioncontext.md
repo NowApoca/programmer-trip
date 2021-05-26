@@ -167,5 +167,5 @@ VariableEnvironment: {
 Note — As you might have noticed that the let and const defined variables do not have any value associated with them during the creation phase, but var defined variables are set to undefined . ESTO ES IMPORTANTE CUANDO QUEREMOS ENTENDER PORQUE ROMPE CUANDO QUEREMOS USAR LET Y NO ESTA DECLARADO PERO CUANDO USAMOS VAR SI.
 
 SOURCE: https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0
-
-
+SOURCE: BUENA EXPLICACION DE LOS SCOPES https://www.telerik.com/blogs/understanding-scope-in-javascript
+SOURCE: http://speakingjs.com/es5/ch16.html con buenas practicas de closures.

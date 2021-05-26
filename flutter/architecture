@@ -1,0 +1,49 @@
+una opcion es la de https://www.youtube.com/watch?v=Mt41FpSS-Vo
+
+me gusta lo de providers y domains, me faltaria un lugar para Atoms moleculas y organismos.
+
+algo que propone este flaco es en lib/widgets/ tener atpms molecules y organisms donde cada file es una de estas entidades: https://github.com/aramidefemi/flutter-atomic-design/tree/master/lib/widgets
+
+este tiene un proyecto bastante interesante armado pero no usa atomic design: https://github.com/wasabeef/flutter-architecture-blueprints/tree/main/lib/ui
+
+este tiene un buen punto:
+
+The key of course is to modularize your code as much as possible. So try to make widgets as minimalist as you can and split them up into multiple widgets/classes/files organized in a standard way whenever possible. It is also good practice to keep the actual widgets, which will be displayed, separate from the API, and from whatever logic is being performed by the app.
+
+The Bloc pattern is one popular approach to architecture for a flutter app. One tenet of the Bloc pattern is to separate the app into layers with a one-way dependency hierarchy, so the first layer is the API/data layer that communicates with the database and exposes basic CRUD operations for whatever data you are manipulating. Then there is a repository layer that depends on this data layer, the repository calls the methods in the data layer and manipulates the results to whatever is useful for the app. Then there is logic layer, which depends on the repository and is responsible for listening for 'events' that are passed to it from the UI, performing the app's 'business logic' and calling whatever it needs to from the repository, and responding with 'states' that are emitted and listened to by the UI. This approach makes heavy use of Streams and Futures, which are powerful features in dart. The dart packages Bloc and Flutter_Bloc make it relatively easy to do this even if you aren't super comfortable with Streams and asynchronous programming yet.
+
+As far as actually organizing the files, for a small app I have organized each layer into its own folder. So there is a 'ui' folder and a 'logic' folder and a 'data' folder with every ui or logic element in the app (and the repo and data layers as individual files/classses in the data folder). For a larger project you might have individual components in their own folder, and each component folder has a ui, logic, and repository file.
+
+It is also a good idea to make a library of the actual widgets you will use in your app, even from the very beginning. So if you plan on having two kinds of button, instead of calling FlatButton / RaisedButton directly from your code, declare your own custom widgets even if they just return a RaisedButton. That makes it super easy to do any custom styling across your entire app, and to keep that styling code separate from the logic and layout.
+
+To make a library, say if you have a widgets.dart file, use the export keyword for any files you want to include in the library:
+
+export 'buttons.dart';
+
+export 'text_widgets.dart';
+
+export 'list_widgets.dart'
+
+....
+
+Now, when you import 'widgets.dart', all of those exported files will be visible.
+
+creo que se banca un atomic design.
+
+
+OTRA ARCHITECTURA UN POCO MAS SERIA, TIENE BUENTOS PUNTOS:
+
+https://medium.com/ideas-by-idean/a-flutter-bloc-clean-architecture-journey-to-release-the-1st-idean-flutter-app-db218021a804
+
+lib ← presentation layer: All the UI stuff, widgets and design utils
+domain layer: the business layer, manipulating pure entities through usecases.
+data layer: All the input data stuff (from async sources)
+core: useful to share code between layers
+
+While many simple apps can manage business logic using Providers, what comes out from Flutter literature and forums is that BLoC or Redux frameworks are more suited for long term apps with many screens and complex logic.
+
+PODRIAMOS USAR ESTAS DEFINICIONES PARA LOS WIDGETS:
+
+https://beforesemicolon.medium.com/how-to-properly-build-components-for-react-or-any-other-library-or-framework-1b28da0c4a85
+
+

@@ -202,4 +202,6 @@ Conclusion
 In this blog post, we looked at how JavaScript fits its floating point numbers into 64 bits. It does so according to double precision in the IEEE 754 standard. Due to how numbers are displayed, one tends to forget that JavaScript cannot precisely represent a decimal fraction whose denominator’s prime factorization contains a number other than 2. For example, 0.5 (12) can be represented, while 0.6 (35) cannot. One also tends to forget that the three components sign, exponent, fraction of a number work together to represent an integer. But one is confronted with that fact when Math.pow(2, 53) + 2 can be represented, but Math.pow(2, 53) + 1 cannot.
 Bonus: The web page “IEEE-754 Analysis” allows you to enter a number and look at its internal representation.
 
+NOTA 1: Esto explica un poco las bases de los puntos flotantes en general y sus partes: https://blog.chewxy.com/2014/02/24/what-every-javascript-developer-should-know-about-floating-point-numbers/
+
 NOTA: https://medium.com/angular-in-depth/javascripts-number-type-8d59199db1b6 es una explicacion de esto un poquitin mas humana, a mi me sirvio mas.
