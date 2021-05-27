@@ -52,3 +52,9 @@ Communcication
 Regression vs retesting
 When testing is complete?
 Test independency
+
+3 blogs:
+
+- Principios
+- test process
+- fundamentos, que es el testing, errors, etc
