@@ -1,11 +1,27 @@
 TENGO QUE SEGUIR ESTAS REGLAS, EMPIEZO MANIANA
+
 https://medium.com/better-advice/12-smart-micro-habits-to-increase-your-daily-productivity-646313a9220
 https://medium.com/madhash/you-only-need-20-percent-to-become-an-effective-developer-deb75a9f4915
 https://levelup.gitconnected.com/use-these-principles-to-make-any-decision-aa94fdbf3c65
 https://javascript.plainenglish.io/19-things-i-stole-from-great-developers-85511ff56570
+https://levelup.gitconnected.com/5-difficult-skills-that-pay-off-exponentially-in-programming-702a599c636e
+https://medium.com/geekculture/21-lessons-i-wish-id-known-earlier-in-my-software-engineering-career-751b2158e8e1
+https://github.com/mtdvio/every-programmer-should-know
+https://javascript.plainenglish.io/26-things-i-noticed-from-a-very-experienced-programmer-93ee8567bcd6
+https://curtiseinsmann.medium.com/soft-skills-help-developers-level-up-here-are-the-10-id-tell-my-junior-self-e8daaa26ad8e
+https://betterhumans.pub/how-to-achieve-your-most-important-career-goals-in-a-fraction-of-the-usual-time-abc8347494e3
+https://betterprogramming.pub/a-comprehensive-walkthrough-to-becoming-a-self-taught-programmer-and-computer-scientist-part-i-288541b19940
 
 JAVASCRIPT/JS
 
+https://javascript.plainenglish.io/90-of-developers-get-this-wrong-fdbdb2e4bf66
+https://medium.com/@abhinav_vp/4-javascript-tips-for-shorter-code-a31c300a28a5
+https://javascript.plainenglish.io/10-tips-to-improve-readability-in-javascript-382eb287437
+https://blog.gyanendra.tech/10-awesome-javascript-one-liners-635687a94f7
+https://levelup.gitconnected.com/7-repos-to-help-you-master-javascript-c7d61792f59c
+https://medium.com/dailyjs/7-differences-between-objects-and-maps-in-javascript-bc901dfa9350
+https://medium.com/free-code-camp/lets-clear-up-the-confusion-around-the-slice-splice-split-methods-in-javascript-8ba3266c29ae
+https://enlear.academy/5-javascript-secrets-every-developer-should-know-c5f45c383b13
 https://medium.com/codex/13-useful-javascript-array-tips-and-tricks-you-should-know-85185e805d4d
 https://blog.bitsrc.io/features-of-javascript-you-probably-never-used-4c117ba3f025
 https://betterprogramming.pub/11-rare-javascript-one-liners-that-will-amaze-you-331659832301
@@ -17,7 +33,6 @@ https://medium.com/geekculture/writing-clean-javascript-es6-edition-834e83abc746
 https://medium.com/@bretcameron/how-to-make-your-code-faster-using-javascript-sets-b432457a4a77
 https://medium.com/@bretcameron/how-javascript-maps-can-make-your-code-faster-90f56bf61d9d
 https://medium.com/@bretcameron/what-javascript-developers-can-learn-from-c-3cdb93ab8658
-https://www.monitis.com/blog/30-tips-to-improve-javascript-performance/
 https://medium.com/@bretcameron/13-tips-to-write-faster-better-optimized-javascript-dc1f9ab063d8
 https://frontarm.com/james-k-nelson/when-to-use-arrow-functions/
 https://javascript.info/
@@ -64,12 +79,19 @@ https://medium.com/dailyjs/10-javascript-oneliners-you-have-got-to-add-your-arse
 https://javascript.plainenglish.io/perfect-express-architecture-ba28c2bfc8b3
 https://betterprogramming.pub/the-battle-of-bundlers-6333a4e3eda9
 https://betterprogramming.pub/should-i-use-promises-or-async-await-126ab5c98789
-https://beforesemicolon.medium.com/25-javascript-code-solutions-utility-tricks-you-need-to-kno
+https://medium.com/before-semicolon/25-javascript-code-solutions-utility-tricks-you-need-to-know-about-3023f7ed993e
+
 
 TS
 
+https://betterprogramming.pub/7-typescript-common-mistakes-to-avoid-581c30e514d6
+https://javascript.plainenglish.io/10-confusing-typescript-notations-i-wish-i-understood-earlier-d1c6f722828c
+https://betterprogramming.pub/6-typescript-typing-system-tricks-you-should-know-5aa39bda8049
+https://medium.com/@juno_ng/differences-between-typescript-type-aliases-and-interfaces-c81dcab2b31
+https://betterprogramming.pub/whats-new-in-typescript-4-5-57d6b88b1e72
+https://szaranger.medium.com/typescript-features-you-should-no-longer-use-82ede931243
+https://itnext.io/typescript-five-most-useful-utility-types-for-react-65c849ebad0b
 https://medium.com/@kubiak.maciej/3-tips-i-wish-someone-had-given-me-when-i-started-my-adventure-with-typescript-ddec0073862a
-https://paulallies.medium.com/clean-architecture-typescript-and-react-8e509098abfe
 https://levelup.gitconnected.com/dependency-injection-in-typescript-5fd1f6207f2
 https://betterprogramming.pub/7-advanced-usages-of-typescript-f9abb0dd64ff
 https://levelup.gitconnected.com/pushing-typescript-to-the-extremes-the-most-advanced-typescript-ive-ever-had-to-write-7e47bc070697
@@ -83,13 +105,7 @@ https://betterprogramming.pub/8-best-practices-for-future-proofing-your-typescri
 https://blog.bitsrc.io/documenting-your-typescript-projects-there-are-options-da7c8c4ec554
 https://javascript.plainenglish.io/how-to-structure-your-typescript-node-js-application-db05bfbdf0b4
 https://betterprogramming.pub/top-50-typescript-interview-questions-explained-5e69b73eeab1
-https://javascript.plainenglish.io/advanced-asynchronous-programming-in-javascript-60ace6f7330b
 https://blog.softwaremill.com/typescript-mistakes-to-avoid-d3ab240c90eb
-https://medium.com/@warkiringoda/typescript-best-practices-2021-a58aee199661
-https://medium.com/voodoo-engineering/nodejs-internals-v8-garbage-collector-a6eca82540ec
-https://github.com/validatorjs/validator.js
-https://levelup.gitconnected.com/everything-you-need-to-know-about-the-passport-local-passport-js-strategy-633bbab6195
-https://gist.github.com/getify/5572383
 
 VS CODE
 
@@ -113,6 +129,8 @@ https://nextjsnotes.com/
 
 NODE
 
+https://javascript.plainenglish.io/advanced-asynchronous-programming-in-javascript-60ace6f7330b
+https://medium.com/voodoo-engineering/nodejs-internals-v8-garbage-collector-a6eca82540ec
 https://javascript.plainenglish.io/11-node-js-libraries-you-need-to-know-cf8c558d2600
 https://levelup.gitconnected.com/15-useful-npm-packages-that-you-should-know-71269a6531a4
 https://medium.com/dhiwise/features-of-clean-code-architecture-node-js-9a7ecac84d5c
@@ -143,8 +161,7 @@ https://stackoverflow.com/questions/26306863/how-to-limit-the-amount-of-requests
 https://blog.logrocket.com/rate-limiting-node-js/
 https://medium.com/voodoo-engineering/node-js-lots-of-ways-to-block-your-event-loop-and-how-to-avoid-it-b41f41deecf5
 https://levelup.gitconnected.com/node-js-best-practices-production-and-security-bef27571cc97
-https://medium.com/voodoo-engineering/node-js-lots-of-ways-to-block-your-event-loop-and-how
--to-avoid-it-b41f41deecf5
+https://medium.com/voodoo-engineering/node-js-lots-of-ways-to-block-your-event-loop-and-how-to-avoid-it-b41f41deecf5
 https://medium.com/swlh/automatic-api-documentation-in-node-js-using-swagger-dd1ab3c78284
 https://www.npmjs.com/package/snappy-native
 https://medium.com/free-code-camp/you-should-never-ever-run-directly-against-node-js-in-production-maybe-7fdfaed51ec6
@@ -157,8 +174,6 @@ https://medium.com/strise/we-abandoned-npm-install-maybe-you-should-too-2340b1ac
 https://javascript.plainenglish.io/9-common-mistakes-nodejs-developers-make-87e9672a2e18
 https://medium.com/swlh/how-i-structure-my-node-js-rest-apis-4e8904ccd2fb
 https://eduardbargues.medium.com/functional-dependency-injection-in-nodejs-a0a5577f11c
-https://javascript.plainenglish.io/password-encryption-using-bcrypt-sequelize-and-nodejs-fb9198634ee7
-https://medium.com/@cambika280/node-js-best-practices-that-every-developer-should-follow-in-2021-22-f00bcacbaafb
 https://betterprogramming.pub/a-practical-guide-for-jwt-authentication-using-nodejs-and-express-d48369e7e6d4
 https://betterprogramming.pub/node-clean-architecture-deep-dive-ab68e523554b
 https://javascript.plainenglish.io/generate-qr-code-with-node-js-858409b949d2
@@ -178,6 +193,7 @@ https://beforesemicolon.com/
 
 TESTS
 
+https://levelup.gitconnected.com/test-driven-development-is-overrated-ad9f0491c11d
 https://github.com/goldbergyoni/nodebestpractices
 https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347
 https://martinfowler.com/articles/mocksArentStubs.html
@@ -190,7 +206,6 @@ https://www.sonarqube.org/
 https://www.youtube.com/watch?v=-2zP494wdUY&feature=youtu.be
 https://medium.com/@copyconstruct
 https://www.youtube.com/watch?v=NhktrUwc_9Q
-https://medium.com/javascript-scene/unit-testing-react-components-aeda9a44aae2
 https://medium.com/loftbr/visual-regression-testing-eb74050f3366
 https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c
 https://medium.com/@m_cheba/checklist-according-to-qa-testing-types-c82548e2c9c5
@@ -212,6 +227,7 @@ https://medium.com/technoesis/about-the-google-professional-cloud-architect-exam
 
 IDEAS
 
+https://medium.com/geekculture/10-saas-ideas-for-your-next-billion-dollar-startup-from-2022-to-2030-9be6ea5da8ab
 https://dev.to/vaibhavkhulbe/100-websites-to-bookmark-for-your-next-dev-web-project-2ece
 https://medium.com/the-dev-caf%C3%A9/three-projects-to-make-you-a-better-programmer-65903e53620a
 https://medium.com/madhash/the-things-you-need-to-consider-for-your-coding-portfolio-36085420b7f9
@@ -250,6 +266,11 @@ https://medium.com/techtofreedom/css-position-locate-your-html-elements-like-a-g
 
 FRONTEND
 
+https://medium.com/@smashingmag/common-concerns-and-privacy-in-web-forms-part-1-3e68f4d4727a
+https://blog.bitsrc.io/9-best-practices-for-optimizing-frontend-loading-time-763211621061
+https://medium.com/javarevisited/how-was-my-frontend-engineer-interview-experience-amazon-d10055fbdd89
+https://javascript.plainenglish.io/25-css-best-practices-you-need-to-know-69f9192babdd
+https://uxdesign.cc/quick-tips-to-create-a-modern-app-ui-4e9ef4daf677
 https://itnext.io/misconceptions-about-virtual-dom-35ec60b87086
 https://reactjs.org/docs/accessibility.html#programmatically-managing-focus
 https://medium.com/hackernoon/lazy-loading-and-preloading-components-in-react-16-6-804de091c82d
@@ -337,6 +358,9 @@ https://medium.com/javascript-in-plain-english/8-vscode-extensions-every-develop
 
 GITHUB COOL REPOSITORIES
 
+https://levelup.gitconnected.com/top-10-github-repos-every-developer-must-know-9da14292e284
+https://medium.com/dare-to-be-better/7-websites-every-developer-should-follow-4853cf9edf78
+https://javascript.plainenglish.io/17-github-repos-you-need-to-save-400bc16d30f4
 https://javascript.plainenglish.io/15-interesting-repositories-on-github-you-probably-didnt-know-existed-297d2fd05177
 https://github.com/minimaxir/big-list-of-naughty-strings/blob/master/blns.json
 https://github.com/jwasham/coding-interview-university
@@ -348,6 +372,32 @@ https://javascript.plainenglish.io/10-significant-repos-on-github-for-javascript
 
 REACT
 
+https://blog.bitsrc.io/react-error-handling-and-logging-best-practices-4444c57cd666
+https://medium.com/javascript-scene/unit-testing-react-components-aeda9a44aae2
+https://medium.com/dhiwise/react-18-new-features-and-updates-2e608d862a6d
+https://itnext.io/better-alternatives-to-the-most-popular-react-libraries-52b219cf5b45
+https://paulallies.medium.com/clean-architecture-typescript-and-react-8e509098abfe
+https://blog.bitsrc.io/state-of-react-state-management-in-2019-779647206bbc
+https://medium.com/codex/usestate-useref-react-9f2398606d51
+https://levelup.gitconnected.com/how-i-structure-my-react-projects-34b35e18f91e
+https://alexanderleon.medium.com/using-reacts-useeffect-like-a-pro-8daa2d7f9f5e
+https://medium.com/@shekhar.siva2609/flutter-vs-react-native-the-last-word-999b4ca7c4aa
+https://medium.com/@indiedev/clean-architecture-in-frontend-react-redux-typescript-bd108ddd13f7
+https://medium.com/@mehran.hrajabi98/a-recommended-folder-structure-for-react-js-projects-5f04e2748116
+https://javascript.plainenglish.io/speed-up-your-react-app-initial-load-using-code-splitting-f2de58c01ed2
+https://nabendu82.medium.com/5-custom-reactjs-hooks-for-every-project-631ed05933a1
+https://enlear.academy/common-react-mistakes-part-1-4d5eb17dcc7e
+https://fathinah.medium.com/clean-vs-dirty-code-in-react-24e8fee03858
+https://javascript.plainenglish.io/11-must-use-tools-for-react-development-36c3b6ba2218
+https://javascript.plainenglish.io/react-app-performance-optimization-the-definitive-guide-9b658be3b6e4
+https://spencerpauly.medium.com/the-1-best-design-pattern-for-managing-forms-in-react-87ae825c98f4
+https://medium.com/@shaynelarochelle1/better-loading-experiences-with-react-hooks-cd0b6c39f0b7
+https://niemvuilaptrinh.medium.com/17-react-js-tools-for-developers-8a53ac5d32ee
+https://javascript.plainenglish.io/5-packages-to-optimize-and-speed-up-your-react-app-during-development-51d7e4297d8d
+https://medium.com/sysco-labs/tips-for-writing-better-react-components-df8d9061dc41
+https://frontend-digest.com/write-better-tests-with-react-testing-library-60ea41843961
+https://medium.com/@kumarvinoth/finally-a-better-react-js-folder-structure-821a2210835
+https://javascript.plainenglish.io/8-ways-to-spot-a-great-react-developer-792ff27c4824
 https://medium.com/sonny-sangha/5-react-hooks-that-you-will-use-in-your-everyday-life-as-a-developer-7c1e99780190
 https://medium.com/hackernoon/a-different-way-to-manage-state-in-react-2d21dfb94482
 https://levelup.gitconnected.com/8-react-libraries-that-id-like-to-introduce-to-you-3802770b3952
@@ -435,6 +485,8 @@ https://javascript.plainenglish.io/where-to-store-the-json-web-token-jwt-4f76abc
 
 GIT
 
+https://levelup.gitconnected.com/top-30-git-commands-you-should-know-to-master-git-cli-f04e041779bc
+https://medium.com/analytics-vidhya/13-git-commands-i-use-daily-14e3ad562068
 https://towardsdatascience.com/a-git-cheatsheet-that-all-coders-need-bf8ad4d91576
 https://nvie.com/posts/a-successful-git-branching-model/
 https://curtiseinsmann.medium.com/ive-code-reviewed-over-750-pull-requests-at-amazon-here-s-my-exact-thought-process-cec7c942a3a4
@@ -457,6 +509,10 @@ https://medium.com/@iAnkurBiswas/common-git-mistakes-and-how-to-fix-them-10184cd
 
 BOOKS
 
+https://betterprogramming.pub/7-fabulous-books-for-aspiring-software-engineers-and-architects-a9388ae56b4f
+https://betterprogramming.pub/10-must-read-books-for-software-engineers-edfac373821b
+https://medium.com/swlh/software-development-practices-as-recommended-by-gene-kim-c6f6e952309f
+https://www.amazon.com/gp/product/1449373321/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449373321&linkCode=as2&tag=mlengineer-20&linkId=929bd4a35bade0588332549761136090
 https://medium.com/swlh/top-9-books-that-every-web-developer-needs-to-read-in-2020-cd9cbafbc76e
 https://dev.to/pluralsight/the-top-10-books-on-devops-you-need-to-read-45m2
 https://github.com/yangshun/tech-interview-handbook
@@ -516,6 +572,8 @@ https://medium.com/similarweb-engineering/moving-from-nodejs-to-go-doing-more-fa
 
 CURIOSIDADES/SOFT SKILLS/MANAGMENT
 
+https://betterprogramming.pub/9-skills-to-learn-early-in-your-tech-career-a7e2f28f2027
+https://uxdesign.cc/5-common-reasons-behind-the-design-debt-in-a-product-a40c5af2e5cd
 https://medium.com/serious-scrum/fast-agile-vs-scrum-21a7d93af566
 https://productcoalition.com/a-continuous-product-discovery-framework-for-agile-teams-3ee87eda0bd9
 https://medium.com/@clementb/what-i-learned-in-my-first-year-as-a-software-engineer-in-a-startup-c078161e5a8e
@@ -574,6 +632,11 @@ https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f
 
 ARQUITECTURA/DESIGN SYSTEMS
 
+https://levelup.gitconnected.com/a-tale-of-two-software-teams-5cb6cebd28bb
+https://betterprogramming.pub/how-to-effectively-scale-your-web-application-7e3917bb98f
+https://levelup.gitconnected.com/basics-of-ci-cd-a98340c60b04
+https://megtechcorner.medium.com/how-uber-handles-millions-of-ride-food-requests-efficiently-part-1-2aa8db436204
+https://medium.com/interviewnoodle/3-common-software-architecture-patterns-and-when-to-use-them-3103cddfdf38
 https://betterprogramming.pub/10-must-know-concepts-of-modern-web-architecture-9ecbefef8bc
 https://medium.com/@davrv93/how-event-driven-architecture-got-me-achieve-my-first-big-challenge-as-lead-developer-f59744283cb2
 https://ankurkumarz.medium.com/top-10-tips-you-should-know-as-a-modern-software-architect-8e602c6c998f
@@ -663,6 +726,7 @@ https://medium.com/better-programming/5-tips-for-hosting-your-own-jenkins-instan
 
 DDBB
 
+https://medium.com/geekculture/microservices-databases-part-2-d839a1ac32c
 https://betterprogramming.pub/create-a-graph-database-and-api-with-postgresql-and-node-js-d7bddcc00bbb
 https://perspectives.mvdirona.com/2008/06/facebook-needle-in-a-haystack-efficient-storage-of-billions-of-photos/
 https://stackoverflow.com/questions/9788542/how-to-store-birthdate-and-age-so-that-age-can-be-updated-daily-in-php-mysql
@@ -758,6 +822,9 @@ https://vittoriorivabella.medium.com/zero-to-hero-backend-developer-roadmap-2021
 
 REST APIS/GRAPHQL/ WEB SOCKETS
 
+https://zonito.medium.com/best-practice-and-cheat-sheet-for-rest-api-design-6a6e12dfa89f
+https://medium.com/free-code-camp/a-beginners-guide-to-graphql-86f849ce1bec
+https://levelup.gitconnected.com/clean-rest-api-with-nestjs-and-cqrs-37dac61e635b
 https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f
 https://medium.com/expedia-group-tech/mistakes-to-avoid-while-designing-an-api-abe4ec9c60b5
 https://betterprogramming.pub/10-best-practices-for-naming-rest-api-endpoints-442ae592a3a0
@@ -819,6 +886,7 @@ https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/
 
 DOCUMENTATION
 
+https://productcoalition.com/product-requirements-document-prd-a-guide-for-product-managers-bc15354fe91a
 https://medium.com/machine-words/writing-technical-design-docs-71f446e42f2e
 https://existek.com/blog/how-to-write-the-system-requirements-specification-for-software-development/
 http://www.uxforthemasses.com/resources/example-ux-docs/#user-journeys
@@ -827,4 +895,5 @@ https://medium.com/the-internal-startup/how-to-draw-useful-technical-architectur
 
 COMMAND LINE
 
+APRENDER BASH
 https://github.com/jlevy/the-art-of-command-line
